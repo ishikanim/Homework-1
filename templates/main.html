@@ -1,0 +1,20 @@
+<!doctype html>
+
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+
+  <title>My Little Website</title>
+  <link rel="stylesheet" href="/static/style.css">
+  <script src="static/main.js"></script>
+</head>
+
+<body>
+  <h1>HELLO {{user}}</h1>
+  {% if user == "unknown" %}
+  <p> I don't think I know who you are. Could you throw a <pre>?userName=something</pre> at the end of the old url there for me? </p>
+  {% endif %}
+  <button id="tester">test</button>
+
+</body>
+</html>
