@@ -14,14 +14,14 @@ You are required to fill out all of the following sections to help us grade your
 
 ## Challenge Task
 
-* I started the challenge task: [yes/no]
-* I completed the challenge task: [yes/no]
+* I started the challenge task: [no]
+* I completed the challenge task: [no]
 
 (if applicable) link: <https://TODO.com/admin/summary>
 
 ## Any Extra Notes?
 
-Fill in this with anything else you would like us to know about your submission.
+I honestly tried my best with this. I think I got most of it to work, but I was having some issues with the checkbox conditionals; no code I tried seemed to work. I was also struggling with filling the JSON file with attributes once the survey was submitted. Currenlty a json file is being created, I am just unsure why it is not being populated once the survey is submitted. I think I am just missing some small things, but I have spent 6 hours trying to figure out these two errors and I just cant anymore. 
 
 To run `pipenv shell` then `FLASK_APP=server.py flask run` 
 
