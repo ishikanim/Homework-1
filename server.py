@@ -1,5 +1,10 @@
+
 import json
-from flask import Flask, render_template, request, jsonify, redirect
+
+from flask import *
+from os import environ as env
+from urllib.parse import quote_plus, urlencode
+from dotenv import find_dotenv, load_dotenv
 import db
 
 app = Flask(__name__)
