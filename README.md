@@ -6,11 +6,14 @@ You are required to fill out all of the following sections to help us grade your
 
 ## Student (to be completed individually)
 
-* First Last, x500@umn.edu
+* Ishika Nimmagadda, nimma013@umn.edu
 
 ## Link to Site
 
-<https://TODO.com/>
+<img width="1185" alt="Screen Shot 2023-03-27 at 11 59 33 AM" src="https://user-images.githubusercontent.com/123126476/228012760-61aa785d-4e44-46a0-a7d3-03bb77441090.png">
+
+https://hw1-ishika.onrender.com
+
 
 ## Challenge Task
 
